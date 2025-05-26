@@ -3,6 +3,19 @@ h1{
 
 }
 
-#cabecera1{
+#tituloSemana1{
 
+    color: black;
+}
+#tituloSemana2{
+
+    color: red;
+}
+#tituloSemana3{
+
+    color: blue;
+}
+
+.parrafoP {
+    color: crimson;
 }
