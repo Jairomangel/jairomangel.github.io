@@ -17,6 +17,9 @@ h1{
     color: rgb(0, 140, 255);
 }
 
+.container{
+    display: flex;
+}
 #imagen1{
     display: flex;
     background-color: blue;
