@@ -52,12 +52,13 @@ footer{
     margin-bottom: 0%;
     
 }
-video{
-    width: 560px;
-    height: 315px;
+#TvAgro{
     
-     
+    margin: 20px;
+    padding: 20px;  
+    position: static;
 }
+
 /*
 esto es un comentario
 */
