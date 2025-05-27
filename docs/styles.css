@@ -1,11 +1,30 @@
 
 body {
-    background-color: rgb(0, 255, 162);
+    background-color: rgb(84, 201, 247);
 }
 
+nav{
+    width :100%;
+    height: 60px;
+    top: 0%;
+    background: red;
+}
+
+.container{
+    margin: 20px;
+}
 h1{
     color: rgb(0, 140, 255);
+}
 
+#imagen1{
+    display: flex;
+    background-color: blue;
+    width: 200px;
+    height: 200px;
+    margin: 10px;
+    padding: 50px;                  
+    
 }
 
 #tituloSemana1{
@@ -14,7 +33,7 @@ h1{
 }
 #tituloSemana2{
 
-    color: red;
+    color: rgb(255, 0, 89);
 }
 #tituloSemana3{
 
@@ -23,6 +42,7 @@ h1{
 
 .parrafoP {
     color: crimson;
+    border-color: blue;
 }
 
 /*
