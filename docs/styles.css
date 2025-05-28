@@ -5,20 +5,21 @@ body {
 
 nav{
     width :100%;
-    height: 60px;
+    height: 40px;
     top: 0%;
-    background: red;
+    background: rgb(237, 137, 137);
 }
 
 .container{
-    margin: 20px;
+    top: 10px;
 }
 h1{
-    color: rgb(0, 140, 255);
+    color: black;
 }
 
 .container{
     display: flex;
+    margin: 5%;
 }
 #imagen1{
     display: flex;
@@ -26,26 +27,17 @@ h1{
     width: 50%;
     height: 50%;
     margin: 10px;
-    padding: 50px;                  
+    padding: 20px;                  
     
 }
+h2{
+    color: red;
+    font-family: Arial, Helvetica, sans-serif;
+}
 
-#tituloSemana1{
-
+.parrafo{
     color: black;
-}
-#tituloSemana2{
-
-    color: rgb(255, 0, 89);
-}
-#tituloSemana3{
-
-    color: blue;
-}
-
-.parrafoP {
-    color: crimson;
-    border-color: blue;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
 footer{
