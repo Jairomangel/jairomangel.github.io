@@ -54,10 +54,9 @@ footer{
     margin-bottom: 0%;
     text-align: center;
 }
-#video{
-
-    width: 40%;
-    height: 30%;
+.video-container iframe{
+    width: 50%;
+    aspect-ratio: 16 / 9;
 }
 /*
 esto es un comentario
