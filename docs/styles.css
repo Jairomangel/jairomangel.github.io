@@ -20,7 +20,7 @@ h1{
 
 .container{
     display: flex;
-    margin: 5%;
+    margin: 50px;
 }
 #imagen1{
     display: flex;
@@ -61,9 +61,9 @@ footer{
 }
 .video-container iframe{
     width: 100%;
-    aspect-ratio: 16/9;
-
-    
+    aspect-ratio: 16/9; 
+    display: flex;
+  
 }
 /*
 esto es un comentario
